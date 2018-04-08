@@ -99,16 +99,16 @@
 
 body{ font-family: 'Josefin Sans', 'sans-serif'; }
 
-@media (max-width: 760px) {
+@media (max-width: 768px) {
     
     .center {
         position: absolute;
-        width: 410px;
-        height: 370px;
+        width: 400;
+        height: 320px;
     }
 
     .title {
-        font-size: 60px;
+        font-size: 50px;
         line-height: 50px;
     }
     
