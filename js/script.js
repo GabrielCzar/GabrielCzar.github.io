@@ -5,3 +5,5 @@ jQuery(function($) {
     $('#content').addClass('animated pulse');
     $('#sharingKit').addClass('animated fadeInUp');
 });	
+
+particlesJS.load('body', 'particles.json');
