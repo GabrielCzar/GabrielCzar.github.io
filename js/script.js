@@ -6,4 +6,4 @@ jQuery(function($) {
     $('#sharingKit').addClass('animated fadeInUp');
 });	
 
-particlesJS.load('body', 'particles.json');
+particlesJS.load('fullscreenDiv', 'particles.json');
